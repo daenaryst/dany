@@ -1,1 +1,1 @@
-![Dany](/assets/dany.jpeg)
+![Dany](/docs/assets/dany.jpeg)
